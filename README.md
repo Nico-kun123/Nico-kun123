@@ -10,6 +10,8 @@
 - [Моё портфолио](https://nico-kun123.github.io/Portfolio/);
 - [Моя вакансия Frontend разработчика на HH.ru](https://krasnoyarsk.hh.ru/resume/62dedceaff0c831a7f0039ed1f3379466d4f53).
 
+![Language](https://img.shields.io/badge/javascript-black?logo=javascript)
+
 Некоторые мои проекты представлены ниже.
 
 <!--
