@@ -27,9 +27,12 @@
 
 ## 📊 Статистика:
 
-![Nico-kun123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico-kun123&show_icons=true&theme=tokyonight&title_color=faa114&icon_color=faa114&locale=ru&langs_count=2)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nico-kun123&show_icons=true&locale=ru&langs_count=8)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nico-kun123&layout=compact&locale=ru&langs_count=8&card_width=420" />
+</a>
 
 ## 💻 Стек:
 
