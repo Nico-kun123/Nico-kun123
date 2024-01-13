@@ -31,7 +31,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nico-kun123&show_icons=true&locale=ru&langs_count=8)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nico-kun123&layout=compact&locale=ru&langs_count=8&card_width=420" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nico-kun123&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 💻 Стек:
