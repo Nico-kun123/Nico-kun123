@@ -8,7 +8,8 @@
 
 ## ❗ Важные ссылки:
 - [Моё портфолио на GitHub Pages](https://nico-kun123.github.io/Portfolio/);
-- [Моя вакансия Frontend разработчика на HH.ru](https://krasnoyarsk.hh.ru/resume/62dedceaff0c831a7f0039ed1f3379466d4f53).
+- [Моя вакансия Frontend разработчика на HH.ru](https://krasnoyarsk.hh.ru/resume/62dedceaff0c831a7f0039ed1f3379466d4f53);
+- [Мой GitHub Gist](https://gist.github.com/Nico-kun123).
 
 Некоторые мои проекты представлены ниже, в поле с закреплёнными репозиториями.
 
