@@ -14,19 +14,6 @@
 
 Некоторые мои проекты представлены ниже, в поле с закреплёнными репозиториями.
 
-<!--
-## 📙 Стек:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![Vue.js](https://img.shields.io/badge/Vue.js-Vue%202,%20Vue%203-brightgreen)
-![SASS](https://img.shields.io/badge/SASS-SCSS-pink?logo=sass)
-![Vite.js](https://img.shields.io/badge/Vite.js-black?logo=vite)
--->
-
----
-
 ## 📊 Статистика:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,21 +28,6 @@
 <a href="https://skillicons.dev">
   <img alt="Technologies" src="https://skillicons.dev/icons?i=html,css,js,ts,git,scss,vue,vite" />
 </a>
-
-<!--
-📚 Frameworks, Platforms and Libraries:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
--->
 
 <!--
 **Nico-kun123/Nico-kun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
