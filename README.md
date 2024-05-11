@@ -2,7 +2,7 @@
 
 > __Мой статус__: Активно ищу работу 👀
 
-📝 Ставлю себе цель устроиться на работу или стажировку в IT компанию, чтобы получать реальный опыт разработки современных веб-сайтов.
+Ставлю себе цель устроиться на работу или стажировку в IT компанию, чтобы получать реальный опыт разработки современных веб-сайтов.
 
 В данный момент нахожусь в активном поиске работы на должность "Frontend Developer". Также я рассматриваю работу тестировщиком или QA-инженером.
 
@@ -22,6 +22,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img alt="Top Used Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nico-kun123&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nico-kun123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🔥 Codewars
+
+[![codewars](https://www.codewars.com/users/Nico-kun123/badges/large)](https://www.codewars.com/users/Nico-kun123)
 
 ## 💻 Стек:
 
